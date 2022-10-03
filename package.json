@@ -1,0 +1,23 @@
+{
+  "name": "getting-started-jest",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Jest-red)",
+  "main": "sum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didierganthier/getting-started-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/didierganthier/getting-started-jest/issues"
+  },
+  "homepage": "https://github.com/didierganthier/getting-started-jest#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
