@@ -6,7 +6,7 @@
 
 
 ## Built With
-- JavaScript (ES6)
+- Javascript
 - Linters
 - Jest
 
