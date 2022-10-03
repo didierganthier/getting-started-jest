@@ -16,28 +16,31 @@ N/A
 
 
 ## Getting Started
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple example steps. (NPM)
+1. Ope your terminal
+2. Navigate to the directory where you want your project cloned
 1. Clone the project using `git clone` or just copy the command below:
   ```
-   git clone https://github.com/didierganthier/todo-list.git
+   git clone https://github.com/didierganthier/getting-started-jest.git
    ```
-2. Open the project with `Visual Studio Code`
+2. Open the project with your IDE. I use [Visual Studio Code](https://code.visualstudio.com/download)
 3. Run `npm install` to get the dependencies
 
    *not sure how to use npm? Read [this](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).*
-4. Run the webpack server using this command:
+4. Run the tests using this command:
   ```
-   npm start
+   npm test
    ```
   *not sure how to use npm? Read [this](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).*
 
 ### Prerequisites
-- Having VsCode installed and configured.
+- Having an IDE .
 - Having Git installed and configured.
 
 ### Setup
-- Clone the repository.
-- Open the project folder in VS Code.
+- Clone the repository using Git.
+- Open the project folder in your IDE.
+- Get the dependecies
 
 
 
